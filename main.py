@@ -28,13 +28,13 @@ Config = {
         "ChannelID" : "1142104560249356329"  # Id of the channel crash games will be in
     },
     "Deposits": {
-        "Channel": "1142068345785569312" # Id of Channel Deposits will be shown in
+        "Channel": "1147881160249196746" # Id of Channel Deposits will be shown in
     },
     "Withdraws": {
         "Channel": "1142068363779113050" # Id of Channel withdraws will be shown in
     },
     "Coinflip" : {
-        "1v1" : "1141747862322040862",  # Channel That Coinflips Be In
+        "1v1" : "1147881059346812938",  # Channel That Coinflips Be In
         "House": 3.5 # House Edge (%)
     },
     "Rains" : {
@@ -44,9 +44,9 @@ Config = {
         "House": 0.95
     },
     "Rakeback" : 1, # Rakeback %
-    "PathToExecutorWorkspace" : "C:/Users/henry/AppData/Local/Packages/ROBLOXCORPORATION.ROBLOX_55nm5eh3cm0pr/AC/workspace", # Path To Your Executors Workspace (for auto depos and withdraws)
-    "RobloxUser" : "fersord",  # Your roblox username, people will deposit to this account
-    "DiscordBotToken": "token" # The token of the discord bot
+    "PathToExecutorWorkspace" : ""E:\Fluxus\Fluxus V7.exe"e", # Path To Your Executors Workspace (for auto depos and withdraws)
+    "RobloxUser" : "PsxProfitBot",  # Your roblox username, people will deposit to this account
+    "DiscordBotToken": "MTE0NjU4MDE2NzA1ODI2ODI0MQ.GFUeqM.MDCNblRCWpiQhMtkdeis3cNx33PvTw6Anq2FSY" # The token of the discord bot
 }
 def multiplier_to_percentage(multiplier, house):
     percentage2 = (100 / multiplier) * house
